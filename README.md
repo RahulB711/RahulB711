@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**RahulB711/RahulB711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://th.bing.com/th/id/OIP.lrO8StC3OucbmWcZYEc1mgHaB2?pid=ImgDet&rs=1)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Rahul Bisht! 👋
+## A passionate Data Analyst with keen interest in Uncovering Insights from Complex Data Sets
+
+
+
+![Logo](https://www.careerguide.com/career/wp-content/uploads/2020/03/data-analysis.gif)
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on EDA on python integrated with My SQl
+
+🧠 I'm currently learning Machine Learning
+
+
+
+📫 How to reach me... bishtrahul711@gmail.com
+
+
+
+⚡️ Interest... Cricket,Continious Learning,Jogging
+
+
+## 🛠 Skills
+Excel | Python | MySQL | Ms PowerBi | Pandas  | Numpy | Matplotlib | Seaborn | Scikit_learn
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-rahulbisht1997/)
+
+[![portfolio](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bishtrahul711
+)
+
+
