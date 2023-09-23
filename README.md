@@ -10,7 +10,7 @@
 
 
 ![Logo](https://www.careerguide.com/career/wp-content/uploads/2020/03/data-analysis.gif)
-## Other Common Github Profile Sections
+## About Me
 👩‍💻 I'm currently working on EDA on python integrated with My SQl
 
 🧠 I'm currently learning Machine Learning
